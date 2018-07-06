@@ -1,0 +1,750 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"va",
+				"value\tAttr"
+			],
+			[
+				"id",
+				"id\tAttr"
+			],
+			[
+				"in",
+				"inputr\tinput - radio"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"la",
+				"label\tAttr"
+			],
+			[
+				"label",
+				"label\tAttr"
+			],
+			[
+				"opt",
+				"optgroup\t<optgroup>"
+			],
+			[
+				"fo",
+				"font-size"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"di",
+				"div\t<div>"
+			],
+			[
+				"script",
+				"script\t<script>"
+			],
+			[
+				"sc",
+				"script\t<script>"
+			],
+			[
+				"p",
+				"placeholder\tAttr"
+			],
+			[
+				"se",
+				"select\t<select>"
+			],
+			[
+				"ch",
+				"checked"
+			],
+			[
+				"si",
+				"size\tAttr"
+			],
+			[
+				"st",
+				"style\tAttr"
+			],
+			[
+				"po",
+				"pow"
+			],
+			[
+				"P",
+				"_POST"
+			],
+			[
+				"if",
+				"ifelse\tif … else …"
+			],
+			[
+				"na",
+				"name\tAttr"
+			],
+			[
+				"s",
+				"sup\tTag"
+			],
+			[
+				"input",
+				"inputs\tinput - submit"
+			],
+			[
+				"su",
+				"submit\t(Bai11.php)"
+			],
+			[
+				"ta",
+				"table\tTag"
+			],
+			[
+				"me",
+				"method\tAttr"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"pa",
+				"password"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"n",
+				"name"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"ce",
+				"center\tTag"
+			],
+			[
+				"_p",
+				"_POST"
+			],
+			[
+				"bo",
+				"border\t(Bai9ChuongTrinhHoc.htm)"
+			],
+			[
+				"sty",
+				"style\tAttr"
+			],
+			[
+				"td",
+				"td\t<td>"
+			],
+			[
+				"echo",
+				"echo\techo \"…\""
+			],
+			[
+				"bi",
+				"birthplace"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"cl",
+				"class"
+			],
+			[
+				"bit",
+				"birthday"
+			],
+			[
+				"bir",
+				"birthplace"
+			],
+			[
+				"birth",
+				"birthplace"
+			],
+			[
+				"birt",
+				"birthday\t(Bai15.php)"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"re",
+				"register\t(Bai15.php)"
+			],
+			[
+				"i",
+				"i\t<i>"
+			],
+			[
+				"t",
+				"tr\t<tr>"
+			],
+			[
+				"null",
+				"is_null"
+			],
+			[
+				"do",
+				"dong\t(Bai14.php)"
+			],
+			[
+				"e",
+				"echo\techo \"…\""
+			],
+			[
+				"br",
+				"br\t<br>"
+			],
+			[
+				"row",
+				"rows\tAttr"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"meta",
+				"meta\tTag"
+			],
+			[
+				"inn",
+				"innerText"
+			],
+			[
+				"onCl",
+				"onclick\tAttr"
+			],
+			[
+				"labe",
+				"label"
+			],
+			[
+				"lab",
+				"label"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"scri",
+				"script\tTag"
+			],
+			[
+				"ali",
+				"align\tAttr"
+			],
+			[
+				"bu",
+				"button"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"form",
+				"form\tTag"
+			],
+			[
+				"ro",
+				"rowspan\tAttr"
+			],
+			[
+				"ci",
+				"decimal-leading-zero"
+			],
+			[
+				"li",
+				"list-style-type"
+			],
+			[
+				"b",
+				"b\t<b>"
+			],
+			[
+				"fon",
+				"font-weight\t(Bai9ChuongTrinhHoc.htm)"
+			],
+			[
+				"hi",
+				"height"
+			],
+			[
+				"lef",
+				"left"
+			],
+			[
+				"FF",
+				"FF0000"
+			],
+			[
+				"le",
+				"left\t(Bai7CongTyHoaTuoi.htm)"
+			],
+			[
+				"img",
+				"img\tTag"
+			],
+			[
+				"th",
+				"th\tTag"
+			],
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"boder",
+				"border"
+			],
+			[
+				"bod",
+				"border\tAttr"
+			],
+			[
+				"cel",
+				"cellspacing\tAttr"
+			],
+			[
+				"al",
+				"align\tAttr"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"bor",
+				"border-collapse"
+			],
+			[
+				"tabl",
+				"table\t<table>"
+			],
+			[
+				"backgroundc",
+				"background-color"
+			],
+			[
+				"te",
+				"text-align\t(Bai1Cactagcoban.htm)"
+			],
+			[
+				"font",
+				"font\tTag"
+			],
+			[
+				"ar",
+				"article\t<article>"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"w",
+				"width\tAttr"
+			],
+			[
+				"style",
+				"style\tAttr"
+			],
+			[
+				"ba",
+				"background-color\t(Bai5CongThucHoaHoc.htm)"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"clo",
+				"color"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"div",
+				"div\tTag"
+			],
+			[
+				"pi",
+				"pink"
+			],
+			[
+				"com",
+				"comment"
+			],
+			[
+				"au",
+				"author"
+			],
+			[
+				"ht",
+				"http-equiv\tAttr"
+			],
+			[
+				"m",
+				"meta\t<meta name=\"\" content=\"\">"
+			],
+			[
+				"ke",
+				"keywords"
+			],
+			[
+				"html",
+				"html\thtml"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"q",
+				"q\tTag"
+			],
+			[
+				"ti",
+				"title\t<title>"
+			],
+			[
+				"ab",
+				"abbr\t<abbr>"
+			],
+			[
+				"ma",
+				"mark\t<mark>"
+			],
+			[
+				"Th",
+				"TheSecond.html"
+			],
+			[
+				"til",
+				"title\tAttr"
+			],
+			[
+				"a",
+				"a\t<a>"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Bai13KTLT/Bai13FormDangKi.php",
+			"settings":
+			{
+				"buffer_size": 813,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Bai13KTLT/xuli.php",
+			"settings":
+			{
+				"buffer_size": 799,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 254.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 444.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/Web",
+		"/E/Web/Bai11",
+		"/E/Web/Bai12",
+		"/E/Web/Bai13KTLT",
+		"/E/Web/Bai14KTLT",
+		"/E/Web/Bai15KTLT"
+	],
+	"file_history":
+	[
+		"/E/Web/Bai14KTLT/Bai14.php",
+		"/E/Web/Bai14KTLT/xulibai14.php",
+		"/E/Web/Bai12/xulybai12.php",
+		"/E/Web/Bai12/Bai12.php",
+		"/E/Web/Bai11/xulibai11.php",
+		"/E/Web/Bai11/Bai11.php",
+		"/E/Web/Bai13TaoFormVaCacNutDK.htm",
+		"/E/Web/Bai12PhieuDangKi.htm",
+		"/E/Web/Bai13TaoFormVaCacNutDK",
+		"/E/Web/Bai15KTLT/Bai15.php",
+		"/E/Web/Bai13KTLT/Bai13FormDangKi.php",
+		"/D/tai game/TLauncher-MCL (1).jar",
+		"/E/Web/Bai11TaoFormVaCachDieuKhien.htm",
+		"/E/Web/Bai10DoubleRich.html",
+		"/E/Web/Bai15KTLT/xulybai15.php",
+		"/E/Web/Bai13KTLT/xuli.php",
+		"/E/Web/Bai9ChuongTrinhHoc.htm",
+		"/E/Web/Bai13FormDangKi.php",
+		"/E/xuly.php",
+		"/E/form.php",
+		"/E/Web/Bai4LauDaiGo.htm",
+		"/E/Web/Bai3VanLiTruongThanh.htm",
+		"/E/Web/Bai5CongThucHoaHoc.htm",
+		"/E/Web/Bai8CacMonNgonHaNoi.htm",
+		"/E/Web/Bai7CongTyHoaTuoi.htm",
+		"/E/Web/nhung-mon-ngon-toat-mo-hoi-o-ha-noi-ngay-dong.jpg",
+		"/E/Web/Bai8CacMonNgonHaNoi",
+		"/E/Web/Bai6TuongLaiCuaTrungHoa.htm",
+		"/E/Web/Bai1Cactagcoban.htm",
+		"/E/Web/Bai5CongThucHoaHoc",
+		"/E/Web/HTMLbasic1.htm",
+		"/E/Web/Bai2Sudungcacthuoctinh.htm",
+		"/E/Web/ThuocTinhTrongHTML.htm",
+		"/E/Web/TheMeta.htm",
+		"/E/Web/Comment.htm",
+		"/E/Web/TheMeta.html",
+		"/E/Web/TheMeta.htn",
+		"/E/Web/TheMeta",
+		"/E/Web/Cumtu.html",
+		"/E/Web/Fomat.sublime-project",
+		"/E/HTML/HTMLbasic",
+		"/C/Program Files/Sublime Text 3/changelog.txt"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"thoại",
+			"$_post",
+			"C"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"$_POST"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Bai13KTLT/Bai13FormDangKi.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 813,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Bai13KTLT/xuli.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 799,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Fomat.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 222.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
